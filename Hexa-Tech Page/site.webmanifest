@@ -1,0 +1,12 @@
+{
+  "short_name": "Hexa-Tech",
+  "name": "Hexa-Tech",
+  "icons": [{
+    "src": "images/Hexa-Tech_logo.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "background_color": "white",
+  "theme_color": "#8803a3",
+  "display": "fullscreen"
+}
